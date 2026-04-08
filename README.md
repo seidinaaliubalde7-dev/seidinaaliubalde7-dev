@@ -1,5 +1,10 @@
 ## Hi there 👋
 
-eu sou seidina aliu balde sou um programador, atualmente estou apredendo e criando projetos com;
-- HTML <img src="![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)"/>
-- CSS 
+eu sou seidina aliu balde sou um programador, atualmente estou apredendo e criando projetos com HTML, CSS;e
+iniciando aprendizado  com javascripte react
+<br>
+<br>
+-<img src="https://camo.githubusercontent.com/4e39004843387226e83eaacfb24a8df02adb769152f2f7f3db1926cb04500f6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/> 
+<br>
+<img src="https://camo.githubusercontent.com/a71c7f6a4380841423b7627a6b60f97f48c3804a0647a263b3282a8b04c7940c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d2532333636333339392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d637373266c6f676f436f6c6f723d7768697465"/>
+
